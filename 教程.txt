@@ -1,0 +1,3 @@
+环境：apache+php7.1
+在message.php中填写KEY
+低价账号带API可加微信群 单个仅需5R
