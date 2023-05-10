@@ -1,19 +1,17 @@
-# GPT-4已经发布，快进群参与讨论吧…… 免费加群，即将达到500人上限，欲加从速。群里已有人拿到GPT-4接口访问权限，目前暂不支持输入图片，并且模型价格较贵。
+# 本项目已更新GPT-4以及GPT-4-32k模型，现在免费加群讨论，即将达到500人上限，欲加从速！
 
 # 介绍
 Steller集成第一版市面上放出来的代码以及市面上全部基于第一版源码的二开版本，并且加了后台以及数据库功能，对此表示对所有贡献者表示感谢。
 以下是相对应的的介绍
 可以点击下方链接查看样式体验：
 
-https://ai.stellar.hk
+https://chat.stellar.hk
 
-https://ai2.stellar.hk
+**2023-05-10更新版本日志：**
 
-https://ai3.stellar.hk
-
-https://ai4.stellar.hk
-
-
+1. 更新GPT-4以及GPT-4-32k模型
+2. 优化了代码显示逻辑
+3. 修复了部分已知BUG
 ------
 **2023-03-16更新版本日志：**
 
@@ -40,9 +38,7 @@ https://ai4.stellar.hk
 
 如果你自己没代理，可以使用热心网友提供的反代地址，把“curl_setopt($ch, CURLOPT_URL, ' https://api.openai.com/v1/chat/completions ');”这行里面的网址改成' https://openai.1rmb.tk/v1/chat/completions '，不确定那个什么时候会失效，也可以进群再找其他群友求一个。不过反代的方式访问速度比较慢，最好还是自己买个海外服务器吧，每个月不到20元的有的是。
 
-如果你实在不会买海外服务器，那你有自己的域名吗？有的话还可以用cf worker自建反代，具体可以参考这篇文章：https://github.com/noobnooc/noobnooc/discussions/9
-
-*测试网址：http://ai.stellar.hk* 
+*测试网址：http://chat.stellar.hk* 
 
 ![微信截图_20230312112146](https://user-images.githubusercontent.com/5563148/224522389-f60e3047-c0e6-49cd-bee7-80feaf2c86a4.png)
 
