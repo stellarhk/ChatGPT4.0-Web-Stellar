@@ -1,7 +1,8 @@
+<!-- chat.stellar.hk -->
 <?php
 $context = json_decode($_POST['context'] ?: "[]") ?: [];
 $postData = [
-    "model" => "gpt-3.5-turbo",
+    "model" => "gpt-4",//调用GPT-4模型
     "temperature" => 0,
     "stream" => true,
     "messages" => [],
@@ -21,3 +22,8 @@ if ((isset($_POST['key'])) && (!empty($_POST['key']))) {
     $_SESSION['key'] = $_POST['key'];
 }
 echo '{"success":true}';
+
+//	    "model" => "gpt-4-32k",//调用GPT-4-32k模型
+ //   "temperature" => 0,
+ //   "stream" => true,
+ //   "messages" => [],
