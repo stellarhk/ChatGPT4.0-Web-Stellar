@@ -42,9 +42,6 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 
 <img width="1086" alt="237388643-c0731edf-aa9f-4f77-927e-5a62b2c9f3e8" src="https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/74595406-f710-4b89-a03b-41a76110776d">
 
-![图片_20230511181608](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/f0883b40-fde1-4da4-ab21-2896a0caa6c3)
-
-
 *测试网址：http://chat.stellar.hk* 
 
 ------
