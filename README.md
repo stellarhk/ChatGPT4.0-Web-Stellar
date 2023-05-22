@@ -63,7 +63,9 @@ FAQ：
 
 对chatgpt感兴趣的同学们欢迎加群讨论。群里有很多大神，有问题可以互相帮助。如果需要在本项目基础上进行二次开发或者其他商务合作，可以加我微信沟通。
 
-由于群里人数已超过200，无法直接扫码进群，想进群的朋友可以加热心网友小号，由他帮忙拉进群。有自动拉人进群方案的朋友欢迎随时联系我，方便大家讨论。
 
-![图片_20230320133446](https://user-images.githubusercontent.com/128345288/226255445-2859a9dc-384d-4d64-a7b9-a1ab875c5ff2.jpg)
+![2](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/91ab95c7-8a32-4337-a672-353040ac3907)
+![1](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/2cb7e0d8-a0d9-4652-a02a-aac5aec8a6fc)
+
+
 
