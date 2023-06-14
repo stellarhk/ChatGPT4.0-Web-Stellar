@@ -61,6 +61,7 @@ FAQ：
 对chatgpt感兴趣的同学们欢迎加群讨论。群里有很多大神，有问题可以互相帮助。如果需要在本项目基础上进行二次开发或者其他商务合作，可以加我微信沟通。
 
 
-![2](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/91ab95c7-8a32-4337-a672-353040ac3907)
-![图片_20230608170321](https://github.com/stellarhk/chatgpt/assets/128345288/0ee07002-c1bb-4549-aeeb-23ace0a2ec81)
+
+![photo_2023-06-14_21-26-59](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/55a1f30b-d535-418b-ba53-fb4e399a7b9c)
+
 ![图片_20230530152225](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/c8ef2c7a-8ad5-453d-a922-85bd03a84916)
