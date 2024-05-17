@@ -7,8 +7,8 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 #推荐一个好用的API接口：https://api.duckagi.com
 >>>>https://str.hk
 >>>>
-![微信图片_20240220143129](https://github.com/stellarhk/chatgpt/assets/128345288/be85126e-2dc2-4250-8922-8de39729e25d)
 
+![图片_20240518022606](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/c530de4b-ccf4-49a5-ba1c-1d74e6f6d52d)
 
 **2023-05-10更新版本日志：**
 
