@@ -1,14 +1,17 @@
-# 本项目已更新GPT-4o语言模型和多模态绘图-DELL-E-3以及GPT-4-128k企业级模型，现在免费加群讨论，快速掌握前沿技术！欲加从速！
+# 本项目已更新GPT-4o语言模型和多模态绘图-DELL-E-3以及GPT-4-128k企业级模型，现在点赞后免费加群讨论，快速掌握前沿技术！欲加从速！
 
 # 介绍
 Steller集成第一版市面上放出来的代码以及市面上全部基于第一版源码的二开版本，并且加了后台以及数据库功能，对此表示对所有贡献者表示感谢。
 以下是相对应的的介绍
 可以点击下方链接查看样式体验：
 #推荐一个好用的API接口：https://api.duckagi.com
+免费的AI对话，智在必得
+>>>>[zzhttps://www.zzbdai.com](https://www.zzbdai.com)
 >>>>https://str.hk
 >>>>
 
-![图片_20240518022606](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/c530de4b-ccf4-49a5-ba1c-1d74e6f6d52d)
+![图片_20240530050124](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/95eea264-7757-4e2d-b094-f8019f7745e5)
+
 
 **2023-05-10更新版本日志：**
 
