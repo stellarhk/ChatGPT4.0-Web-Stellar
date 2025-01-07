@@ -6,11 +6,9 @@ Steller.hk集成第一版市面上放出来的代码以及市面上全部基于�
 
 以下是相对应的的介绍
 可以点击下方链接查看样式体验：
-#推荐一个好用的API接口：https://api.duckagi.com
-免费的AI对话，智在必得
->>>>[zzhttps://www.zzbdai.com](https://www.zzbdai.com)
->>>>https://str.hk
->>>>
+#推荐一个好用的API接口：https://api.aiduckduck.top
+1元使用openai满血官转和claude，Midjourney 8秒出图
+
 
 ![图片_20240530050124](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/95eea264-7757-4e2d-b094-f8019f7745e5)
 
