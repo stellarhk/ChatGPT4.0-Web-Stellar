@@ -9,7 +9,7 @@ Steller.hk集成第一版市面上放出来的代码以及市面上全部基于�
 #推荐一个好用的API接口：https://api.aiduckduck.top
 1元使用openai满血官转和claude，Midjourney 8秒出图
 
-
+#推荐采购原生api和购买plus，推荐：neuronicx.com
 ![图片_20240530050124](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/95eea264-7757-4e2d-b094-f8019f7745e5)
 
 
